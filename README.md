@@ -1,8 +1,8 @@
 # OchronaSystemowOperacyjnych
 Protokoły z zajęć
 
-lab1 - grafana + loki
-lab2 - hashicorp vault
-lab3 - hashicorp vault
-lab4 - OPNsense
-lab5 - Lynis + openSCAP
+lab1 - grafana + loki <br>
+lab2 - hashicorp vault<br>
+lab3 - hashicorp vault<br>
+lab4 - OPNsense<br>
+lab5 - Lynis + openSCAP<br>
